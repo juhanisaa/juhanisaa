@@ -1,6 +1,6 @@
 ## Data journalism & digital transformation & ai
 
-No public repositories here – sorry about that. 
+Not much public to see here – sorry about that. 
 
 However, I’ve contributed to numerous proprietary projects in Sanoma, including:
 - **Pakki**, a widget tool box to create interactive content within articles
