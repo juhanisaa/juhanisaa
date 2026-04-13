@@ -1,8 +1,6 @@
 ## Data journalism & digital transformation & ai
 
-Not much public to see here – sorry about that. 
-
-However, I’ve contributed to numerous proprietary projects in Sanoma, including:
+Not much public to see here. However, I’ve contributed to numerous proprietary projects in Sanoma, including:
 - **Pakki**, a widget tool box to create interactive content within articles
 - **Alasin**, a content management system for visual articles
 - Helsingin Sanomat games [Sanalouhos](https://www.hs.fi/pelit/art-2000010229611.html) and [Sanajuuri](https://www.hs.fi/pelit/art-2000011201869.html)
